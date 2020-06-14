@@ -1,0 +1,9 @@
+<kernel>
+    <properties>
+        <property>
+            <type>\Plaisio\PageDecorator\PageDecoratorFactory</type>
+            <name>pageDecorator</name>
+            <description>The helper object for creating page decorator.</description>
+        </property>
+    </properties>
+</kernel>
